@@ -46,3 +46,9 @@ To test the algorithm you can for example use the corresponding dataset availabl
 # License
 
 RBOT is licensed under the GNU General Public License Version 3 (GPLv3), see http://www.gnu.org/licenses/gpl.html.
+
+# 相关资源和笔记
+
+[论文：Real-Time Monocular Segmentation and Pose Tracking of Multiple Objects](https://cvmr.info/resources/Paper/realtime_monocular_tracking_eccv16.pdf)
+
+[論文筆記: Monocular Pose Estimation of 3D Objects using Temporally Consistent Local Color Histograms](https://blog.csdn.net/Dennis_Lee_/article/details/82696485)
